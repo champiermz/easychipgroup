@@ -1,0 +1,3 @@
+include ':easychipgroup'
+include ':app'
+rootProject.name = "EasyChipGroup"
